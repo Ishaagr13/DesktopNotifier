@@ -1,4 +1,4 @@
-# desktop Notifier : - A desktop notifier is a simple application which produces a notification message in form of a pop-up message on a desktop.
+# Desktop Notifier : - A desktop notifier is a simple application which produces a notification message in form of a pop-up message on a desktop.
 
 
 # Made With :- Python
